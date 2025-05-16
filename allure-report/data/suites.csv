@@ -1,0 +1,7 @@
+"DESCRİPTİON","DURATİON İN MS","NAME","PARENT SUİTE","START TİME","STATUS","STOP TİME","SUB SUİTE","SUİTE","TEST CLASS","TEST METHOD"
+"","19450","test_delete_from_to_art","tests","Tue May 13 20:37:08 TRT 2025","passed","Tue May 13 20:37:27 TRT 2025","TestEndToEnd","test_end_to_end","",""
+"","14298","test_product_search","tests","Tue May 13 20:36:19 TRT 2025","passed","Tue May 13 20:36:33 TRT 2025","TestEndToEnd","test_end_to_end","",""
+"","18354","test_add_to_cart","tests","Tue May 13 20:36:40 TRT 2025","passed","Tue May 13 20:36:59 TRT 2025","TestEndToEnd","test_end_to_end","",""
+"","13393","test_success_login","tests","Tue May 13 20:38:25 TRT 2025","passed","Tue May 13 20:38:38 TRT 2025","TestLogin","test_login","",""
+"","15764","test_delete_from_favorites","tests","Tue May 13 20:38:02 TRT 2025","passed","Tue May 13 20:38:17 TRT 2025","TestEndToEnd","test_end_to_end","",""
+"","18969","test_add_to_favorites","tests","Tue May 13 20:37:35 TRT 2025","passed","Tue May 13 20:37:54 TRT 2025","TestEndToEnd","test_end_to_end","",""
